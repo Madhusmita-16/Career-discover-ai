@@ -300,7 +300,7 @@ export interface AgentOrchestrationResult {
 ## 👩‍💻 7. Developer Attribution & Contact
 
 **Madhu Smita Mishra**  
-*Full Stack & Enterprise Software Developer*  
+*Senior Developer*  
 
 - 📧 **Email**: [madhusmitamishra1604@gmail.com](mailto:madhusmitamishra1604@gmail.com)  
 - 🐙 **GitHub**: [github.com/Madhusmita-16](https://github.com/Madhusmita-16)  
