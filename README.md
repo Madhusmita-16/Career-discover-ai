@@ -278,19 +278,13 @@ export interface AgentOrchestrationResult {
    npm install
    ```
 
-3. **Set Environment Variables**:
-   Create a `.env.local` file in the root directory:
-   ```env
-   VITE_OPENAI_API_KEY=your_openai_api_key_here
-   ```
-
-4. **Launch Development Server**:
+3. **Launch Development Server**:
    ```powershell
    npm run dev
    ```
    Open `http://localhost:5173` in your browser.
 
-5. **Build for Production**:
+4. **Build for Production**:
    ```powershell
    npm run build
    ```
