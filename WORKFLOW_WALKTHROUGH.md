@@ -194,5 +194,4 @@ dist/assets/index-C9zlybYK.js   590.54 kB │ gzip: 143.63 kB
 *Senior Developer*  
 - **Email**: [madhusmitamishra1604@gmail.com](mailto:madhusmitamishra1604@gmail.com)  
 - **GitHub**: [github.com/Madhusmita-16](https://github.com/Madhusmita-16)  
-- **LinkedIn**: [linkedin.com/in/madhusmita16](https://www.linkedin.com/in/madhusmita16/)  
-- **Medium**: [medium.com/@madhusmitamishra1604](https://medium.com/@madhusmitamishra1604)
+- **LinkedIn**: [linkedin.com/in/madhusmita16](https://www.linkedin.com/in/madhusmita16/)
