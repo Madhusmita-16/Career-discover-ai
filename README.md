@@ -1,10 +1,5 @@
 # 🚀 CareerDiscover AI — Autonomous AI Resume Builder, ATS Matcher & Multi-Agent Career Platform
 
-## 🎬 Live Navigation & Product Demo Video
-
-![CareerDiscover AI Interactive Navigation Demo](./public/career-discover-ai-navigation.webp)
-
-
 [![React 19](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript 6](https://img.shields.io/badge/TypeScript-6.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite 8](https://img.shields.io/badge/Vite-8.3-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -13,6 +8,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
+## 🎬 Live Navigation & Product Demo Video
+
+![CareerDiscover AI Interactive Navigation Demo](./public/career-discover-ai-navigation.webp)
 
 > **Interactive Navigation Walkthrough**: Demonstrating live candidate profile ingestion, Job Description term matching, real-time ATS match scoring, multi-template switching (*Tech Blueprint*, *Classic Corporate*, *Modern Split*), AI career coach chat panel, and retina PDF export.
 
